@@ -1,0 +1,4 @@
+Markdown
+- Aldri hardkod hemmeligheter eller API-nøkler.
+- Bruk alltid Zod for validering av API-inputs.
+- Sørg for at Supabase RLS (Row Level Security) aktiveres for alle nye tabeller.
